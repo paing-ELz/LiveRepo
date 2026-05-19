@@ -1,0 +1,21 @@
+{
+  "name": "gh",
+  "version": "1.0.0",
+  "description": "\"# LiveRepo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paing-ELz/LiveRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/paing-ELz/LiveRepo/issues"
+  },
+  "homepage": "https://github.com/paing-ELz/LiveRepo#readme"
+}
